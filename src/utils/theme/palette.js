@@ -1,0 +1,47 @@
+export const palette = {
+  mode: "light",
+  primary: {
+    lightest: "#dbdaee",
+    light: "#817fc4",
+    main: "#4B49AC",
+    dark: "#43419a",
+    darkest: "#3c3a89",
+    contrastText: "#FFFFFF",
+  },
+  error: {
+    lightest: "#FEF3F2",
+    light: "#FDCDCD",
+    main: "#F04438",
+    dark: "#CF4A4D",
+    darkest: "#7A271A",
+    contrastText: "#FFFFFF",
+  },
+  warning: {
+    lightest: "#FFFAEB",
+    light: "#FFF4E6",
+    main: "#F79E1C",
+    dark: "#B54708",
+    darkest: "#7A2E0E",
+    contrastText: "#FFFFFF",
+  },
+  info: {
+    lightest: "#ECFDFF",
+    light: "#99C9E3",
+    main: "#7aa0b5",
+    dark: "#0E7090",
+    darkest: "#164C63",
+    contrastText: "#FFFFFF",
+  },
+  success: {
+    lightest: "#F0FDF9",
+    light: "#DFEFCA",
+    main: "#B1C892",
+    dark: "#4AA785",
+    darkest: "#134E48",
+    contrastText: "#FFFFFF",
+  },
+  common: {
+    white: "#ffffff",
+    black: "#000000",
+  },
+};
